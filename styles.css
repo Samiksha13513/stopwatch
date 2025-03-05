@@ -1,0 +1,44 @@
+
+body{
+    display: flex;
+    background-color: rgb(146, 145, 145);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color:aliceblue;
+}
+.container{
+background-color: rgb(36, 35, 35);
+border-radius: 12px;
+padding: 23px;
+width:450px ;
+text-align:center ;
+}
+.time{
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+}
+.zero{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+}
+
+.btn{
+    border-radius: 10px;
+    padding:8px 10px;
+    color: rgb(10, 10, 10);
+    background-color: rgb(242, 247, 242);
+    font-size: 1.1rem;
+}
+ .btn:hover{
+    color: azure;
+background-color: rgb(109, 110, 110);
+}
+
